@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764995219905",
+    "project_id": "takecarecustomer-63c18",
+    "storage_bucket": "takecarecustomer-63c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764995219905:android:aac7bfabf176375332ff40",
+        "android_client_info": {
+          "package_name": "com.takecarecustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764995219905-ngfgefo045e2k6k4r1a92kjj8puov70v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkmjWSKeeYdycGT-nvwxgLerkhvanPqfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764995219905-ngfgefo045e2k6k4r1a92kjj8puov70v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
